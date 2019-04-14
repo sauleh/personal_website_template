@@ -9,7 +9,7 @@ main:
   - title: "Students"
     url: /students/
   - title: "Research"
-    url: /research/
+    url: publications.html
   - title: "Blog"
     url: /blog/
   # - title: "About"
