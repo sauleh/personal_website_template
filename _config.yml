@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sauleh Eetemadi"
+title                    : "سیّد صالح اعتمادی"
 title_separator          : "-"
 name                     : "Sauleh"
 description              : "Welcome to my site."
@@ -110,7 +110,7 @@ author:
   name             : "Sauleh Eetemadi"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I'm an assistant professor of Computer Science at IUST. I enjoy learning new things and sharing what I know with others. So far I've learned some science, math, computers, NLP, IT, BJJ, MMA, swimming, diving, flying... "
-  location         : "Tehran"
+  location         : "تهران"
   email            : sauleh@gmail.com
   twitter: sauleh_e
   linkedin: sauleh
