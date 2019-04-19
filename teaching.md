@@ -11,7 +11,7 @@ comments: false
 
 |           | **Current**                    |
 |----|------|--------------------------------|
-|2019|Spring| **Algorithm Design**         |
+|2019|Spring| **<a href="/ad97/">Algorithm Design</a>**         |
 |----|------|--------------------------------|
 |2019|Spring| **Advanced Programming - C#** |
 |----|------|--------------------------------|
