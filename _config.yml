@@ -21,8 +21,8 @@ title                    : "سیّد صالح اعتمادی"
 title_separator          : "-"
 name                     : "Sauleh"
 description              : "Welcome to my site."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : #http://webpages.iust.ac.ir # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : #/sauleh # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Sauleh Eetemadi"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I'm an assistant professor of Computer Science at IUST. I enjoy learning new things and sharing what I know with others. So far I've learned some science, math, computers, NLP, IT, BJJ, MMA, swimming, diving, flying... "
+  bio              : I'm an assistant professor of Computer Science at IUST. I enjoy learning new things and sharing what I know with others. So far I've learned some science, math, computers, NLP, IT, BJJ, MMA, swimming, diving, flying... 
   location         : "تهران"
   email            : sauleh@gmail.com
   twitter: sauleh_e
