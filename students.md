@@ -18,4 +18,5 @@ comments: false
 * Attieh Sarvi
 * Mahya Khazaei
 * Samin Fatehi
-* Soroush Gholami
+* [Soroosh Gholamizoj](https://sites.google.com/site/gholamisoroosh)
+* Kiarash Aghakasiri
