@@ -4,7 +4,7 @@ author_profile: true
 permalink: /teaching/
 title: Teaching
 tags: [teaching, courses]
-modified: 4-14-2019
+modified: 5-17-2019
 comments: false
 ---
 
@@ -13,7 +13,7 @@ comments: false
 |----|------|--------------------------------|
 |2019|Spring| **<a href="/ad97/">Algorithm Design</a>**         |
 |----|------|--------------------------------|
-|2019|Spring| **Advanced Programming - C#** |
+|2019|Spring| **<a href="/ap97/">Advanced Programming - C#</a>** |
 |----|------|--------------------------------|
 |2019|Spring| **Natural Language Processing (Undergraduate)** |
 
