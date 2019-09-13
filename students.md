@@ -18,5 +18,6 @@ comments: true
 * Attieh Sarvi
 * Mahya Khazaei
 * Samin Fatehi
-* [Soroosh Gholamizoj](https://sites.google.com/site/gholamisoroosh)
+* [Soroosh Gholamizoj](https://sites.google.com/site/gholamisoroosh) [Final Project](/projects/sorooshgholami)
 * Kiarash Aghakasiri
+
