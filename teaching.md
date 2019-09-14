@@ -15,8 +15,7 @@ comments: false
 |----|------|--------------------------------|
 |2019|Fall  | **<a href="/ds98/">Data Structures</a>** |
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="/nlp97/">Natural Language Processing (Undergraduate)</a>** |
-
+|2019|Fall  | **<a href="">Computer Lab</a>** |
 
 
 |           | **Past**                       |
@@ -25,7 +24,7 @@ comments: false
 |----|------|--------------------------------|
 |2019|Spring| **<a href="/ap97/">Advanced Programming - C#</a>** |
 |----|------|--------------------------------|
-|2019|Spring| **Natural Language Processing (Undergraduate)** |
+|2019|Spring| **<a href="/nlp97/">Natural Language Processing (Undergraduate)</a>** |
 |----|------|--------------------------------|
 |2018|Fall  | **<a href="/ds97/">Data Structures</a>**            |
 |----|------|--------------------------------|
