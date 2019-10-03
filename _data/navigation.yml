@@ -4,10 +4,16 @@ main:
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "CV"
     url: /cv/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Students"
-    url: /students/
+  - title: "Courses"
+    url: /courses/
+  - title: "Friends"
+    url: /friends/
+  - title: "Links"
+    url: /links/
+  - title: "Hobbies"
+    url: /hobies/  
+  - title: "Gallery"
+    url: /gallery/
   - title: "Blog"
     url: /blog/
   # - title: "About"

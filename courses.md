@@ -1,9 +1,9 @@
 ---
 layout: single
 author_profile: true
-permalink: /teaching/
-title: Teaching
-tags: [teaching, courses]
+permalink: /courses/
+title: Courses
+tags: [Studying, courses]
 modified: 9-14-2019
 comments: false
 ---
