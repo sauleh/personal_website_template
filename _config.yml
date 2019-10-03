@@ -21,8 +21,8 @@ title                    : "سیّد صالح اعتمادی"
 title_separator          : "-"
 name                     : "Sauleh"
 description              : "Welcome to my web site."
-url                      : #http://webpages.iust.ac.ir # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : #/sauleh # the subpath of your site, e.g. "/blog"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : #the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -30,9 +30,9 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : false # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : sauleh # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -297,6 +297,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true # true
+      comments: # true
       share: true
       related: true
