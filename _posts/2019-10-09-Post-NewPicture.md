@@ -10,7 +10,7 @@ People in the picture are:
 - Scott
 - Me
 
-![alt text](/assets/images/grouppic.jpg "Team Picture")
+![alt text](assets/images/grouppic.jpg "Team Picture")
 
 ---
 **Test**: This is atest
