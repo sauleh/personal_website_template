@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "air"  #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : تهران 
-title                    "فاطمه جلالوند"
+title                    :"فاطمه جلالوند"
 title_separator          : "-"
 name                     : "فاطمه جلالوند" 
 description              : "Welcome to my web site."
@@ -116,7 +116,7 @@ author:
   linkedin: fatemeh jalalvand
   google_scholar: 
   github: fatemehj.github.io
-  instagram:فاطمه جلالوند
+  instagram:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
