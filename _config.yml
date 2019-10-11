@@ -13,7 +13,7 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    :"air"  #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air"  #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : تهران 
@@ -107,15 +107,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Poorrang Atashi"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm an assistant professor of Computer Science at IUST. I enjoy learning new things and sharing what I know with others. So far I've learned some science, math, computers, NLP, IT, BJJ, MMA, swimming, diving, flying... 
+  name             : "فاطمه جلالوند"
+  avatar           : "/assets/images/6.jpg"
+  bio              : I'm a university student in iust.I study computer engineering . 
   location         : "تهران"
-  email            : sauleh@gmail.com
+  email            : fatemehjalalvand14@gmail.com
   twitter: فاطمه جلالوند
-  linkedin: فاطمه جلالوند
-  google_scholar: Q25s5KkAAAAJ
-  github: فاطمه جلالوند
+  linkedin: fatemeh jalalvand
+  google_scholar: 
+  github: fatemehj.github.io
   instagram:فاطمه جلالوند
   links:
     - label: "Email"
