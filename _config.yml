@@ -136,6 +136,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Calendly"
+      icon: "fas fa-calendar-alt"
+      url: "http://calendly.com/pourrang_atashi"
 
 # Site Footer
 footer:
@@ -158,6 +161,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Calendly"
+      icon: "fas fa-calendar-alt"
+      url: "http://calendly.com/pourrang_atashi"
 
 
 # Reading Files
