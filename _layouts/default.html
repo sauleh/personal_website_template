@@ -12,6 +12,13 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <!-- some other meta tags -->
+    <meta name="description" content="Farzan Rahmani's personal website">
+    <meta name="keywords" content="Farzan, Rahmani">
+    <meta name="author" content="Farzan Rahmani">
+    <meta name="publisher" content="Farzan Rahmani">
+    <meta name="page-topic" content="Farzan Rahmani Bio">
+    <!-- some other meta tags -->
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
