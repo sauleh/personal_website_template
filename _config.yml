@@ -99,9 +99,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : google # false (default), "google", "google-universal", "custom"
+  provider               : #google # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-139110197-2
+    tracking_id          : #UA-139110197-2
     anonymize_ip         : # true, false (default)
 
 
@@ -139,6 +139,9 @@ author:
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
       url: "http://calendly.com/pourrang_atashi"
+    - label: "Telegram"
+      icon: "fab fa-telegram"
+      url: "http://t.me/Sauleh"
 
 # Site Footer
 footer:
