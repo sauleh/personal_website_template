@@ -3,12 +3,12 @@ layout: posts
 title: Test Post
 ---
 
-## This is my team at Microsoft
+## This is me
 People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+- me
+- and me
+- and
+- nothing
 
 [my favorite website](http://www.google.com)
 
