@@ -17,7 +17,7 @@ kfajdskfajsdf sakd fjksad jfksdj fksdj f
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+![alt text](../assets/images/bio-photo.jpg "Team Picture")
 
 ---
 **Test**: This is atest
