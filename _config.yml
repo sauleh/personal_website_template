@@ -138,7 +138,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
-      url: "http://calendly.com/pourrang_atashi"
+      url: ""
     - label: "Telegram"
       icon: "fab fa-telegram"
       url: "http://t.me/mohsen_moeinfar"
@@ -166,7 +166,7 @@ footer:
       # url:
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
-      url: "http://calendly.com/pourrang_atashi"
+      url: ""
 
 
 # Reading Files
