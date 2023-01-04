@@ -3,20 +3,12 @@ layout: posts
 title: elephant
 ---
 
-## elephant
-
+## website course
 -r
 -
 -
 -
+khob ebteda chiz haye ezafe mesl etelat agha torakj ro hazf kardim bad aks khod  va etelat khodeman ro jaygozin kardim  va tajorobe khobi bod va blog jadid zadim 
+:)
+[like this?](https://lms.iust.ac.ir/)
 
-[my favorite website](https://www.w3schools.com)
-
-If size mattered the elephant would be the king of jungle
-
-
-
-![alt text](../assets/images/ele.jpg "Team Picture")
-
----
-**elephant**: :(
