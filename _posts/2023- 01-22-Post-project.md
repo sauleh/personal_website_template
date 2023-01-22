@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: hello my friend
+title: project
 ---
 ## project
 dada
