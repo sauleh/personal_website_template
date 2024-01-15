@@ -9,9 +9,8 @@ comments: true
 ---
 
 ### همکلاسی‌ها
-* [Dear Friends!!!.](http://alihosseini.github.io)
+* Mobina Hoshyaripour
 * Nikou Labafi
-* حسن داریان
-
+* Mahdieh Yeganeh
 
 
