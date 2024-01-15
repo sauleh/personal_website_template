@@ -1,11 +1,9 @@
 ---
 layout: posts
-title: چه هوای خوبی
+title: نمودار طول عمر
 ---
 
-- We wrote some code
-- We built our website
-- We pushed
+- نمودار طول عمر
 
 # this is a header
 

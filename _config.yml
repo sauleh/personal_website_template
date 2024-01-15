@@ -109,14 +109,14 @@ analytics:
 author:
   name             : "Pari Ghassemi"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm changing bio pls work
+  bio              : "Hi welcome to my website. I'm Pari Ghassemi. I've made this website to showcase my projects and asignements. "
   location         : "تهران"
   email            : itsryo67gh@gmail.com
-  twitter: sauleh_e
-  linkedin: 
+  twitter: pgh
+  linkedin: pgh
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: PariGhassemi
+  instagram: pgh
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
