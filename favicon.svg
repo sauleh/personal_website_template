@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="10" fill="#15191c"/>
+  <text x="8" y="44" font-family="Georgia, serif" font-size="37" letter-spacing="-3" fill="#f1efea">FR</text>
+  <circle cx="55" cy="46" r="3" fill="#98c9bc"/>
+</svg>
